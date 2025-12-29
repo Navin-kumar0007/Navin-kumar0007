@@ -61,6 +61,31 @@
     </td>
     <td width="50%" style="padding: 10px;">
       <div align="center">
+        <a href="https://github.com/Navin-kumar0007">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=7000FF&height=100&text=GITALPHA%20ENGINE&fontSize=25&fontColor=ffffff&desc=High%20Performance%20Core&descSize=12" width="100%" style="border-radius: 10px 10px 0 0;" />
+        </a>
+        <div style="background-color: #0d1117; padding: 15px; border-radius: 0 0 10px 10px; border: 1px solid #30363d; text-align: left;">
+          <p><b>⚙️ Advanced Engine System</b></p>
+          <ul>
+            <li>Optimized Search Algorithms</li>
+            <li>Version Control Integration</li>
+            <li>Scalable Backend Architecture</li>
+          </ul>
+          <div align="center">
+            <img src="https://skillicons.dev/icons?i=java,git,github,bash&theme=dark&height=20" />
+            <br><br>
+            <a href="https://github.com/Navin-kumar0007">
+              <img src="https://img.shields.io/badge/VIEW_SOURCE-38bdf8?style=flat-square&logo=github" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" style="padding: 10px;">
+      <div align="center">
         <a href="https://github.com/Navin-kumar0007/Airbnb_market_analysis">
           <img src="https://capsule-render.vercel.app/api?type=rect&color=FF5A5F&height=100&text=AIRBNB%20DATA&fontSize=25&fontColor=ffffff&desc=Market%20Intelligence&descSize=12" width="100%" style="border-radius: 10px 10px 0 0;" />
         </a>
@@ -76,31 +101,6 @@
             <br><br>
             <a href="https://github.com/Navin-kumar0007/Airbnb_market_analysis">
               <img src="https://img.shields.io/badge/VIEW_SOURCE-38bdf8?style=flat-square&logo=github" />
-            </a>
-          </div>
-        </div>
-      </div>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" style="padding: 10px;">
-      <div align="center">
-        <a href="https://github.com/Navin-kumar0007">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=00979D&height=100&text=SEISMIC%20IoT&fontSize=25&fontColor=ffffff&desc=Hardware%20Engineering&descSize=12" width="100%" style="border-radius: 10px 10px 0 0;" />
-        </a>
-        <div style="background-color: #0d1117; padding: 15px; border-radius: 0 0 10px 10px; border: 1px solid #30363d; text-align: left;">
-          <p><b>📉 Earthquake Detector</b></p>
-          <ul>
-            <li>Micro-vibration Sensing (MPU6050)</li>
-            <li>ESP32 Wi-Fi Data Logging</li>
-            <li>Real-time LED Visual Alerts</li>
-          </ul>
-          <div align="center">
-            <img src="https://skillicons.dev/icons?i=c,cpp,arduino&theme=dark&height=20" />
-            <br><br>
-            <a href="https://github.com/Navin-kumar0007">
-              <img src="https://img.shields.io/badge/PROTOTYPE-FF6D00?style=flat-square&logo=arduino" />
             </a>
           </div>
         </div>
@@ -123,6 +123,32 @@
             <br><br>
             <a href="https://github.com/Navin-kumar0007">
               <img src="https://img.shields.io/badge/DEPLOYED-00C853?style=flat-square&logo=java" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" style="padding: 10px;">
+      <div align="center">
+        <a href="https://github.com/Navin-kumar0007">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=00979D&height=100&text=SEISMIC%20IoT&fontSize=25&fontColor=ffffff&desc=Hardware%20Engineering&descSize=12" width="60%" style="border-radius: 10px 10px 0 0;" />
+        </a>
+        <div style="width: 60%; background-color: #0d1117; padding: 15px; border-radius: 0 0 10px 10px; border: 1px solid #30363d; text-align: center;">
+          <p><b>📉 Earthquake Detector</b></p>
+          <ul style="text-align: left; display: inline-block;">
+            <li>Micro-vibration Sensing (MPU6050)</li>
+            <li>ESP32 Wi-Fi Data Logging</li>
+            <li>Real-time LED Visual Alerts</li>
+          </ul>
+          <div align="center">
+            <br>
+            <img src="https://skillicons.dev/icons?i=c,cpp,arduino&theme=dark&height=20" />
+            <br><br>
+            <a href="https://github.com/Navin-kumar0007">
+              <img src="https://img.shields.io/badge/PROTOTYPE-FF6D00?style=flat-square&logo=arduino" />
             </a>
           </div>
         </div>
